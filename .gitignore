@@ -4,8 +4,8 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile ~/.gitignore_global
 
-# plugins should be there own repository
 /plugins
+!/plugins/akzent-points-of-interest
 /themes
 /uploads
 /logs
