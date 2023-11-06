@@ -1,0 +1,3 @@
+[submodule "plugins/akzent-points-of-interest"]
+	path = plugins/akzent-points-of-interest
+	url = https://github.com/Christian1983/akzent-points-of-interest.git
